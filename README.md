@@ -24,20 +24,11 @@ Welcome to my GitHub profile!
 
 ### Get in touch
 
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN/" target="_blank">
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
-    alt="LinkedIn"
-    width="45"
-    height="45"
-  />
-</a>
-&nbsp;
-<a href="mailto:SEU-EMAIL@gmail.com">
-  <img
-    src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg"
-    alt="Gmail"
-    width="45"
-    height="45"
-  />
-</a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/danri-alves-84469117a/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
+  </a>
+  <a href="mailto:danryy.allves@gmail.com">
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/gmail-icon.png" alt="gmail" width="40" height="40"/>
+  </a>
+</p>
